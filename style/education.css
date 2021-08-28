@@ -1,0 +1,56 @@
+.ti{
+    font-size: 100px;
+    background-color: white;
+    width: 70vw;
+    margin: 0 auto;
+    text-align: center;
+}
+.one{
+    margin-top: 50px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.one a{
+    box-shadow: 1px 1px 4px black;
+    width: 45vw;
+    text-align: center;
+    padding: 120px;
+    margin: 20px;
+    color: black;
+    background-color: white;
+    font-size: 60px;
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+}
+.one a:hover{
+    background-color: black;
+    color: white;
+}
+.bb{
+    background-color: white;
+    margin: 40px auto;
+    padding-bottom: 15px;
+    overflow: hidden;
+    width: 97vw;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 4px rgb(184, 184, 184);
+}
+.bb img{
+    width: 40vw;
+    margin: 40px;
+    float: left;
+}
+h1{
+    font-size: 20px;
+}
+.bb p{
+    font-size: 12px;
+}
+
+
+footer{
+    height: 15vh;
+}
